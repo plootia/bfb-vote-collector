@@ -1,6 +1,4 @@
-# bfb-votes-collector
-
-~~**WARNING**: Very slow! Will fix in not-so-distant future.~~ **Fixed!**
+# bfb-vote-collector
 
 ## How to run:
 
@@ -9,3 +7,5 @@
 * ~~Type `npm install`~~ It now relies on my comments getter so no need to do that.
 * Type `node index.js`
 * Just wait
+
+- Forked from lithium's one, his is dead now. I will be updating it every time a new episode comes out.
