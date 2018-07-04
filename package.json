@@ -18,5 +18,9 @@
   "homepage": "https://github.com/plootia/bfb-vote-collector#readme",
   "dependencies": {
     "readline-sync": "^1.0.0"
-  }
+  },
+  "files": [
+    "getter.js",
+    "json.js"
+  ]
 }
