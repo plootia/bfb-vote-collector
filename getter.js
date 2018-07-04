@@ -1,6 +1,7 @@
+var readline = require('readline-sync');
 const EventEmitter = require("events").EventEmitter;
 const https = require("https");
-const key = "AIzaSyAXpG8mF9Cw0mYv7Rnps-_0z3K9nO5injw"; // thanks figgyc
+const key = readline.question("What is your YouTube API key? Check the link in the README for a tutorial on how to do it.");
 
 const stringify = require("querystring").stringify;
 

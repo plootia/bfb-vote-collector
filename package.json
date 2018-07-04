@@ -1,0 +1,22 @@
+{
+  "name": "bfb-vote-collector",
+  "version": "1.0.0",
+  "description": "Vote collector and sorter for the BFB series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plootia/bfb-vote-collector.git"
+  },
+  "author": "lithiumjs - forked by Plutie <pururuto@waifu.club>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plootia/bfb-vote-collector/issues"
+  },
+  "homepage": "https://github.com/plootia/bfb-vote-collector#readme",
+  "dependencies": {
+    "readline-sync": "^1.0.0"
+  }
+}
