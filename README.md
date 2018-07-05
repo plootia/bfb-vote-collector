@@ -1,5 +1,7 @@
 # bfb-vote-collector
 
+##DO NOT USE, NOT WORKING ATM. Help would be appreciated. Add me on discord - Plutie#1704.
+
 ## How to run:
 
 * Install [Node.js](https://nodejs.org/en/download/) (if you haven't done so)
